@@ -21,14 +21,15 @@
 }
 
 body {
+
     -webkit-touch-callout: none;
     -webkit-text-size-adjust: none;
     -webkit-user-select: none;
-    background-color: #010101;
+    background-color: #6e614f;
     background-image: linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image: -webkit-linear-gradient(top, #A7A7A7 0%, #100f0c 51%);
+    background-image: -webkit-linear-gradient(top, #A7A7A7 0%, #847451 51%);
     background-image: -ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #010101), color-stop(0.51, #040403) );
+    background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #726552), color-stop(0.51, #5f5444) );
     background-attachment: fixed;
     font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
     font-size: 12px;
@@ -37,6 +38,7 @@ body {
     padding: 0px;
     text-transform: uppercase;
     width: 100%;
+
 }
 
 /* Portrait layout (default) */
